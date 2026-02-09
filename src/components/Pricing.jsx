@@ -4,7 +4,7 @@ const plans = [
         name: "Technical",
         description: "I have project experience in the following",
         features: [
-            "JavaScipt",
+            "JavaScript",
             "R",
             "Python",
             "Java",

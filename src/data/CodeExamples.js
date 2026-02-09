@@ -7,7 +7,7 @@ export const codeExamples = {
         'I draw digital art for fun. Nothing too deep just doodles \nof things :P'
     ,
     "Music":
-        'Music plays such a big part in my life. \nI love listening to music'
+        'Music plays such a big part in my life. \nI love eating all kinds of music. If you got any \nrecommendations feel free to share them with me!'
     ,
 };
 
