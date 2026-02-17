@@ -18,4 +18,9 @@ function App() {
   );
 }
 
+async function getNewToken() {
+  const response = await fetch('/api/refresh'); // Hits your serverless function
+  const data = await response.json();
+  return data.access_token;
+}
 export default App

@@ -21,7 +21,7 @@ const plans = [
         mostPopular: false,
     },
     {
-        name: "Tangible",
+        name: "Tangibles",
         description: "I've studied and practiced the following",
         features: [
             "Machine Learning",
