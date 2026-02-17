@@ -151,7 +151,7 @@ export default function Hero() {
                                             </SyntaxHighlighter>
                                             </div>
                                             <div className="flex-grow flex items-center justify-center w-full px-4 sm:px-8">
-                                                <p className="text-slate-400">What I'm currently listening to:</p>
+                                                <p className="text-slate-400">My most recent listen:</p>
                                                 
                                             </div>
                                             <div className="flex-grow flex items-center justify-center w-full px-4 sm:px-8">
